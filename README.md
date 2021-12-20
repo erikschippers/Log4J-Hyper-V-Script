@@ -5,3 +5,5 @@ Download the scanner for Windows from: https://github.com/logpresso/CVE-2021-442
 Available parameters are available on the Github page mentioned above.
 
 I've written a script to scan Hyper-V Windows Guests for the Log4J vulnerability, which collects the results and generates a CSV file as a report.
+
+Look for: "Invoke-Command -VMName" to change the parameters if needed.
